@@ -1,6 +1,7 @@
 package practice;
 
 public class Apple {
+
 	double a;
 	double b;
 	double c;
